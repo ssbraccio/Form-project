@@ -1,0 +1,30 @@
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\ssbraccio.stark\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\probgen\general\ssbraccio\WindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\probgen\general\ssbraccio\OldWindowsForm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\probgen\general\ssbraccio\OldWindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\probgen\general\ssbraccio\OldWindowsForm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\FormApps\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\FormApps\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\FormApps\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\FormApps\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

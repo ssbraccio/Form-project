@@ -1,0 +1,8 @@
+C:\FormApps\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\FormApps\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\FormApps\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\FormApps\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\FormApps\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\FormApps\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\FormApps\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\FormApps\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
